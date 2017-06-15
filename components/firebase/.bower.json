@@ -28,7 +28,7 @@
     "tag": "v1.0.1",
     "commit": "f133bf7edd349368c3e393e260adf3caf164d982"
   },
-  "_source": "git://github.com/firebase/firebase-bower.git",
+  "_source": "https://github.com/firebase/firebase-bower.git",
   "_target": "1.0.1",
   "_originalSource": "firebase"
 }
