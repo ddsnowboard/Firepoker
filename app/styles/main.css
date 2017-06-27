@@ -145,7 +145,6 @@ span:focus, span:focus:hover {
 }
 
 #player-counter {
-    position: absolute;
-    right: 0px;
-    bottom: 5px;
+    width: 100%;
+    text-align: right;
 }
